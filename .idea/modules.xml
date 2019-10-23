@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/folding-cell.iml" filepath="$PROJECT_DIR$/folding-cell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../folding-cell-android-master.iml" filepath="$PROJECT_DIR$/../folding-cell-android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../folding-cell-listview-example/folding-cell-listview-example.iml" filepath="$PROJECT_DIR$/../folding-cell-listview-example/folding-cell-listview-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../folding-cell-simple-example/folding-cell-simple-example.iml" filepath="$PROJECT_DIR$/../folding-cell-simple-example/folding-cell-simple-example.iml" />
+    </modules>
+  </component>
+</project>
